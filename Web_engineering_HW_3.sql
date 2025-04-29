@@ -27,7 +27,7 @@ SELECT
             ' сделал заказ ',
             order_date) AS order_info
 FROM
-    northwind.ordersазование*/
+    northwind.orders 
 
 SELECT 
     CONCAT('Клиент с id ',
@@ -35,4 +35,4 @@ SELECT
             ' сделал заказ ',
             order_date) AS order_info
 FROM
-    northwind.ordersование*/
+    northwind.orders
